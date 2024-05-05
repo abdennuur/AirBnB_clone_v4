@@ -150,6 +150,7 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
+
 ## Bugs
 No known bugs at this time. 
 
@@ -160,6 +161,7 @@ Innocent Udo - [Github](https://github.com/innocentsax) / [Twitter](https://twit
 Owolabi Pius - [Github](https://github.com/opius2017) / [Twitter](https://twitter.com/piusowolabi)
 
 khatib abdennour - [Github](https://github.com/abdennuur) / [Twitter](https://twitter.com/abdennourkhati)
+widad moumkine - [Github](https://github.com/ouiwish) / [[Twitter](https://twitter.com/Omoumkine)
 
 Second part of Airbnb: Joann Vuong
 ## License
